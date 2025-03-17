@@ -1,6 +1,6 @@
 <div align=center>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=DAHYUN's%20Github&fontSize=40&fontAlign=75&fontAlignY=40" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=DAHYUN's%20Github&fontSize=40&fontAlignY=40" />
   
 ## 📊 GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dahyun24&show_icons=true&theme=tokyonight)
