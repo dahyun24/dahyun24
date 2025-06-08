@@ -5,8 +5,14 @@
 ## 📊 GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dahyun24&show_icons=true&theme=tokyonight)
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=dahyun24&layout=compact&langs_count=8&card_width=400" width="400" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dahyun24&layout=compact)](https://github.com/dahyun24/github-readme-stats)
+<br />
+
+[![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=wooda01)](https://solved.ac/wooda01/)
+
+<br />
+
 ## 🛠️ Skills
 <div>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
@@ -41,7 +47,7 @@
   
 <!--
 **dahyun24/dahyun24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+  
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -53,4 +59,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 ### 📚 Experience
+
 -->
